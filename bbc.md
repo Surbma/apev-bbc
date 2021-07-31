@@ -1,5 +1,5 @@
 # Business Base Contract
-**VERSION: 1.0 | LATEST UPDATE: 2021.07.31.**
+**VERSION: 1.1 | LATEST UPDATE: 2021.07.31.**
 
 The contract is subject to the Government Decree 1999 (II.5.) On distance contracts.
 
